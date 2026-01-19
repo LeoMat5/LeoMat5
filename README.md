@@ -1,6 +1,6 @@
 ## Hi there 👋
 Because my projects are part of the school tasks and projects meaning those can be used to complete or cheat in the tasks and projects, everything is set to private.
-If you want to see them, send me an email/request and depending who sent it, I will grant access to them.
+If you want to see them, send me an email/request and depending who sent it, I will grant access to them. I need to have your GitHub account to grant the access and I will pick all the relevant projects while leaving out weekly tasks which gives no additional information.
 I will check the request so no cheating can be done with these projects.
 
 <!--
