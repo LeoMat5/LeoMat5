@@ -1,4 +1,7 @@
 ## Hi there 👋
+Because my projects are part of the school tasks and projects meaning those can be used to complete or cheat in the tasks and projects, everything is set to private.
+If you want to see them, send me an email/request and depending who sent it, I will grant access to them.
+I will check the request so no cheating can be done with these projects.
 
 <!--
 **LeoMat5/LeoMat5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
