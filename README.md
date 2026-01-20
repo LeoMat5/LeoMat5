@@ -1,7 +1,7 @@
 ## Hi there 👋
 Because my projects are part of the school tasks and projects meaning those can be used to complete or cheat in the tasks and projects, everything is set to private.
 If you want to see them, send me an email/request and depending who sent it, I will grant access to them. 
-I need to have your GitHub account to grant the access. Pick the projects and/or task you want to see, and I will grant access depending on who is asking the access.
+I need to have your GitHub account to grant the access. Pick the projects and/or task you want to see.
 I will check the request so no cheating can be done with these projects.
 
 The following information will be slowly updated and expanded.
@@ -18,6 +18,7 @@ School tasks
 1. Python based convolution filter usage for AI
 2. Machine learning based on picture identification
 3. Web application practicing React use.
+4. Web application practicing TypeScript. This one will be the one where we had to apply all previous week's knowledge as final task before React.
 
 Own projects
 1. 2D game practice project with a softbody character. I didn't manage to do this during the course so I created it after it. Created with Godot Engine, GDScript.
