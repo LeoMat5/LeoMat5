@@ -19,6 +19,7 @@ School tasks
 2. Machine learning based on picture identification
 3. Web application practicing React use.
 4. Web application practicing TypeScript. This one will be the one where we had to apply all previous week's knowledge as final task before React.
+5. Web application practicing React, TypeScript, Express, Development and Production versions, proxying, Routing. Also a task where we had to apply all previous knowledge, but this time it's from 4. to end of the course.
 
 Own projects
 1. 2D game practice project with a softbody character. I didn't manage to do this during the course so I created it after it. Created with Godot Engine, GDScript.
