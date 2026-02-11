@@ -22,7 +22,8 @@ School tasks
 5. Web application practicing React, TypeScript, Express, Development and Production versions, proxying, Routing. Also a task where we had to apply all previous knowledge, but this time it's from 4. to end of the course.
 
 Own projects
-1. 2D game practice project with a softbody character. I didn't manage to do this during the course so I created it after it. Created with Godot Engine, GDScript.
+1. 2D game practice project with a softbody character. I didn't manage to do this during the course so I created it after it. Created with Godot Engine, GDScript. 
+(Implemented an advanced real-time soft-body simulation system based on publicly shared design concepts and independent implementation. The code is kept private, but I can discuss the technical approach and demonstrate the system in action).
 
 
 <!--
